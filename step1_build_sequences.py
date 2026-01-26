@@ -4,8 +4,8 @@ import pandas as pd
 from tqdm import tqdm
 from collections import Counter, defaultdict
 
-FEATURE_FOLDER = r"D:\Study\khoa_luan\Dataset\CMOSE\secondFeature"
-LABEL_FILE = r"D:\Study\khoa_luan\Dataset\CMOSE\label_results_w_audio_final.json"
+FEATURE_FOLDER = r"G:\3TD_KLTN_AI\Dataset\CMOSE\secondFeature"
+LABEL_FILE = r"G:\3TD_KLTN_AI\Dataset\CMOSE\label_results_w_audio_final.json"
 
 MAX_LEN = 100
 STRIDE = 50
