@@ -16,7 +16,9 @@ This Dataset/CMOSE, processed_data is NOT pushed to GitHub due to its large size
 ## Structure
 Dataset/
  ├─ CMOSE/
+
 models/
+
 processed_data/
 
 ......
@@ -39,6 +41,6 @@ Current results:
  Accuracy: 85.3% Engage recall: 94.4%
 
 ## Requirements
-Python 3.10+
-Install dependencies: pip install -r requirements.txt 
-Note: TensorFlow manages its internal dependencies automatically.
+- Python 3.10+
+- Install dependencies: pip install -r requirements.txt 
+- Note: TensorFlow manages its internal dependencies automatically.
